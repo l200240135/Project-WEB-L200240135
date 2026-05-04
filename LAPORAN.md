@@ -76,12 +76,8 @@ Hi l200240135! You've successfully authenticated, but GitHub does not provide sh
 
 ## Hasil Lighthouse (Bonus)
 
-> 📸 *[Tambahkan screenshot skor Lighthouse jika mengerjakan bonus]*
-
-| Kategori | Skor |
-|---|---|
-| Performance | ≥ 80 |
-| Accessibility | ≥ 80 |
+> 📸 [Lighthouse Mobile & Dekstop]*(assets/images/mobile.png)*
+> *(assets/images/dekstop.png)*
 
 ---
 
