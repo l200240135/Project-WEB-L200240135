@@ -45,9 +45,8 @@ personal-website/
 
 ## Link Website yang Sudah Di-host
 
-> 🌐 **[https://username.github.io/nama-repo](https://username.github.io/nama-repo)**
+> 🌐 **[https://l200240135.github.io/Project-WEB-L200240135/]**
 
-*(Ganti URL di atas dengan link GitHub Pages / Netlify / Vercel kamu yang sebenarnya)*
 
 ---
 
