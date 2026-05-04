@@ -80,14 +80,4 @@ Hi l200240135! You've successfully authenticated, but GitHub does not provide sh
 > *(assets/images/dekstop.png)*
 
 ---
-
-## Catatan Pengembangan
-
-- **Responsivitas:** Menggunakan 2 breakpoint — `max-width: 900px` (desktop) dan `max-width: 600px` (mobile).
-- **Aksesibilitas:** Semua `<img>` memiliki atribut `alt` deskriptif. Navigasi dapat diakses dengan keyboard (Tab). Kontras warna text primary (`#e8e4dc`) terhadap background (`#0a0a0c`) memenuhi rasio WCAG AA (>4.5:1).
-- **CSS Variables:** Semua warna, font, spacing, dan transisi menggunakan CSS custom properties agar mudah diubah.
-- **Tanpa inline style** pada elemen konten — semua gaya ada di `style/main.css`.
-
----
-
 *Tugas #1 Pemrograman Web — Universitas Muhammadiyah Surakarta 2026*
